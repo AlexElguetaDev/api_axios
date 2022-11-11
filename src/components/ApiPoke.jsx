@@ -36,7 +36,7 @@ function ApiPoke(){
                 <h4>Nombre: {nombres.name}</h4>
                 <img
                   className="pokemon-img"
-                  src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/${i + 1}.png`}
+                  src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/${i + 1}.svg`}
                   alt={nombres.name}
                 />
               </li>
